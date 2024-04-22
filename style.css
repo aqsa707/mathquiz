@@ -1,0 +1,29 @@
+html {
+  background: url("img/tech-background.webp") no-repeat center fixed;
+  background-size: cover;
+}
+
+body {
+  background-color: rgb(184, 213, 241);
+  border-radius: 15px;
+  width: 600px;
+  margin: 25px auto;
+  padding: 25px 150px 50px;
+}
+
+h1 {
+  font-size: 32px;
+}
+
+h2 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 30px;
+}
+
+.Q {
+  font-size: 20px;
+}
+
+.A {
+  font-size: 15px;
+}
